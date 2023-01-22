@@ -1,0 +1,25 @@
+* {
+    padding: 0px;
+    margin: 0px;
+}
+
+body {
+    height: 100vh;
+}
+
+
+.bi-heart-fill {
+    color: red;
+}
+
+i:hover {
+    font-size: 17px;
+}
+
+.card {
+    border-radius: 2rem;
+}
+
+.card-header {
+    border-radius: inherit !important;
+}
